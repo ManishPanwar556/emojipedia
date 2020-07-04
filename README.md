@@ -1,2 +1,3 @@
 # emojipedia
-Created with CodeSandbox
+Created an emojipedia app using a javascript framework react
+
